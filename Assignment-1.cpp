@@ -10,7 +10,7 @@ class Student
 
 	void Accept()
 		{
-		cout<< "Enter the roll number of the stdent:"<<endl;
+		cout<< "Enter the roll number of the student:"<<endl;
 		cin>>rollnum;
 
 		cout<<"Enter the name of the student:"<<endl;
